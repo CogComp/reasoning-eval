@@ -1,4 +1,4 @@
-# reasoning-eval
+# ReasonAgain
 
 This is the GitHub Repo for paper "ReasonAgain: Using Extractable Symbolic Programs to Evaluate Mathematical Reasoning".
 
